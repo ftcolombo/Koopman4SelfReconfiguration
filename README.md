@@ -6,20 +6,21 @@ Code developed for the paper "Koopman Operator Models for Self-Reconfiguring Vib
 
 If you use this repository, please cite the following paper:
 
-Colombo FT, da Silva S, Garrido H, Domizio M. Damage identification in structures using dynamic mode decomposition for vibration analysis of low-resolution videos. Structural Health Monitoring. 2025;0(0). URL [https://doi.org/10.1177/14759217251327555](https://doi.org/10.1177/14759217251327555)
+Colombo FT, Rébillat M, Mechbal N, da Silva S. Koopman Operator Models for Self-Reconfiguring Vibration Control and Structural Health Monitoring. Structural Health Monitoring. 2026; 0(0). URL [x](x)
 
 ```
-@article{dmd4visualshm,
-  author = {Fernanda Tha\'is Colombo and Samuel da Silva and Hern\'an Garrido and Martin Domizio},
-  title = {Damage identification in structures using dynamic mode decomposition for vibration analysis of low-resolution videos},
+@article{koopman4selfreconfig,
+  author = {Fernanda Tha\'is Colombo and Marc R\'ebillat and Nazih Mechbal and Samuel da Silva},
+  title = {Koopman Operator Models for Self-Reconfiguring Vibration Control and Structural Health Monitoring},
   journal = {Structural Health Monitoring},
   volume = {0},
   number = {0},
-  pages = {14759217251327555},
+  pages = {0},
   year = {0},
-  doi = {10.1177/14759217251327555}
+  doi = {0}
 }
 ```
+
 
 # Acknowledgements
 
