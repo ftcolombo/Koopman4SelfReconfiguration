@@ -2,9 +2,6 @@ clear all
 close all
 clc
 
-% addpath('G:\Meu Drive\Posdoc\Simulações\Bepe - viga\try2\17-07')
-
-
 fs = 2000;
 
 fcut = 2;
