@@ -16,8 +16,8 @@ Colombo FT, Rébillat M, Mechbal N, da Silva S. Koopman Operator Models for Self
   volume = {0},
   number = {0},
   pages = {0},
-  year = {0},
-  doi = {0}
+  year = {2026},
+  doi = {10.1177/14759217261500354}
 }
 ```
 
