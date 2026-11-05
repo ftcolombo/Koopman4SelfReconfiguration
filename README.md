@@ -6,7 +6,7 @@ Code developed for the paper "Koopman Operator Models for Self-Reconfiguring Vib
 
 If you use this repository, please cite the following paper:
 
-Colombo FT, Rébillat M, Mechbal N, da Silva S. Koopman Operator Models for Self-Reconfiguring Vibration Control and Structural Health Monitoring. Structural Health Monitoring. 2026; 0(0). URL [x](x)
+Colombo FT, Rébillat M, Mechbal N, da Silva S. Koopman Operator Models for Self-Reconfiguring Vibration Control and Structural Health Monitoring. Structural Health Monitoring. 2026; 0(0). URL [https://doi.org/10.1177/14759217261500354](https://doi.org/10.1177/14759217261500354)
 
 ```
 @article{koopman4selfreconfig,
